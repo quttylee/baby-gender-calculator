@@ -50,3 +50,4 @@ Google Play Store 배포 가이드는 DEPLOYMENT_GUIDE.md를 참고하세요.
 "재미는 재미일 뿐.. 맹신은 금물!!"
 라이선스
 MIT License
+Update README
